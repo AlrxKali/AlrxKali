@@ -2,11 +2,12 @@
   <h1 align="center">👋 Hi, I’m Alejandro Alemany @alrxkali</h1>
 </p>
 <p align="center">
-  <h3 align="center">💪 Machine Learning Engineer</h1>
-  <h3 align="center">🌱 Ph.D. Candidate in AI</h1>
-  <h3 align="center">👀 Computer Vision Researcher</h1>
-  <h3 align="center">💞️ Music and Dance professor (Volunteer)</h1>
+  <h5 align="center">💪 Machine Learning Engineer</h1>
+  <h5 align="center">🌱 Ph.D. Candidate in AI</h1>
+  <h5 align="center">👀 Computer Vision Researcher</h1>
+  <h5 align="center">💞️ Music and Dance professor (Volunteering)</h1>
 </p>
+======
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
